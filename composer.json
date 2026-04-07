@@ -1,0 +1,14 @@
+{
+    "name": "gutentag-world/gutentag-world",
+    "description": "Gutentag, World!",
+    "type": "library",
+    "version": "0.1.0",
+    "autoload": {
+        "psr-4": {
+            "GutentagWorld\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
